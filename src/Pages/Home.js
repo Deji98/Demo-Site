@@ -13,7 +13,7 @@ function Home() {
     <div className='home-dir'>
      
       <div className='Body'>
-      <div className='img04'><img id='img4' src={Rimg04} /></div>
+      <div className='img04'><img id='img4' src={Rimg04} alt="04" /></div>
     <div className='home-text'>
     <h1> Create Professional <span>Testimonials Videos</span>  Easily <br /> In Your Home</h1>
 <p>We help companies create and manage quality video content  through a computer or smartphone camera</p>
@@ -23,7 +23,7 @@ function Home() {
 <img id='img1' src={Rimg1} alt="01" />
 </div>
     </div>
-    <div className='set2'>
+    <div className='set2' >
     <div className='img02'>
     <img id='img2' src={Rimg2} alt="02"/>
     </div>
